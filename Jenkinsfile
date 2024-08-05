@@ -18,7 +18,7 @@ pipeline {
          SONARSERVER = 'sonarserver'
          SONARSCANNER = 'sonarscanner'
     }
-
+//rohi
     stages {
         stage('Build') {
             steps {
